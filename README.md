@@ -1,4 +1,3 @@
-:lion: Devavrata-Tripathy/README.md
 ### Hi there 👋
   Learning :books: and building ML/DL models. Web Dev enthusiast   
   
